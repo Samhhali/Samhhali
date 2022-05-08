@@ -1,7 +1,7 @@
 # 💫About Me :
 <h1 align="center">مرحبا، انا سماح</h1>
 
-<h3 align="center">Hi, I'm Samah. a backend software engineer from Egypt who has interests in building stuff...</h3>
+<h3 align="center">Hi, I'm Samah. Pretending to be a cool backend software engineer who has interests in building stuff...</h3>
 
 - 🔭 I’m currently working in [Bringy](https://bringy.com/)
 - 📄 Know more about my experiences [linkedin/samah-ali-muhammad](https://www.linkedin.com/in/samah-ali-muhammad/)
@@ -11,6 +11,7 @@
 ](https://www.youtube.com/watch?v=ivKuP_Ptfbo&list=LL&index=135) ||  [[Arabic] G Suite Productivity Apps Essentials
 ](https://www.youtube.com/watch?v=gJHhy6eD2LQ&t=4s) 
 - 📫 you can reach me through **smahhaly@gmail.com**
+- 💬 Ask me about **Backend, NodeJS, typescript, Javascript, ...etc and I will Google it, I know nothing.** 
 - ⚡ Fun fact **I leak humor!**
 
 ## 🌐Socials
