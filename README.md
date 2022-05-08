@@ -1,10 +1,16 @@
 # 💫About Me :
--  مرحبا, انا سماح
+<h1 align="center">مرحبا، انا سماح</h1>
 
--  Hi, I'm Samah
-- 🌱 Software engineer who has interests in backend development and building cool stuff
-- 🔭 I’m currently working in [Bringy!](https://bringy.com/)
-- 📄 Know about my experiences [https://www.linkedin.com/in/samah-ali-muhammad/](https://www.linkedin.com/in/samah-ali-muhammad/)
+<h3 align="center">Hi, I'm Samah. a backend software engineer from Egypt who has interests in building stuff...</h3>
+
+- 🔭 I’m currently working in [Bringy](https://bringy.com/)
+- 📄 Know more about my experiences [linkedin/samah-ali-muhammad](https://www.linkedin.com/in/samah-ali-muhammad/)
+- ⚡ I was once a TED talker, watch me struggling here :D [هل العلم جدير بتوقعاتنا؟ | Samah Ali | TEDxSuezCanalUniversity
+](https://www.youtube.com/watch?v=nUwluRGwO-E&t=30s)
+- 👯 I really love talking about alot of stuff "D [[Arabic] Google Cloud Essentials
+](https://www.youtube.com/watch?v=ivKuP_Ptfbo&list=LL&index=135) ||  [[Arabic] G Suite Productivity Apps Essentials
+](https://www.youtube.com/watch?v=gJHhy6eD2LQ&t=4s) 
+- 📫 you can reach me through **smahhaly@gmail.com**
 - ⚡ Fun fact **I leak humor!**
 
 ## 🌐Socials
