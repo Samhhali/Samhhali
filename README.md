@@ -14,9 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samhhali&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ What do you think abou :'D
-![](https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069.app/api?type=vetical&theme=dark)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api"/>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=samhhali&icon=2&color=12)](https://visitcount.itsvg.in)
