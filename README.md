@@ -1,4 +1,7 @@
 # 💫About Me :
+-  مرحبا, انا سماح
+-  Hi, I'm Samah
+- 🌱 Software engineer who has interests in backend development and building cool stuff
 - 🔭 I’m currently working in [Bringy!](https://bringy.com/)
 - 📄 Know about my experiences [https://www.linkedin.com/in/samah-ali-muhammad/](https://www.linkedin.com/in/samah-ali-muhammad/)
 - ⚡ Fun fact **I leak humor!**
@@ -17,5 +20,6 @@
 <p>
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=samhhali&icon=2&color=12)](https://visitcount.itsvg.in)
