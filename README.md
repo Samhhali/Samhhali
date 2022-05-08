@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samhhali&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ What do you think abou :'D
-<p align="center">
+<p align="left">
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
 
