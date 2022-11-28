@@ -6,7 +6,7 @@
 - 🔭 I’m currently working in [Bringy](https://bringy.com/)
 - 📄 Know more about my experiences [linkedin/samah-ali-muhammad](https://www.linkedin.com/in/samah-ali-muhammad/)
 - ⚡ I was once a TED talker, watch me struggling here :D [هل العلم جدير بتوقعاتنا؟ | Samah Ali | TEDxSuezCanalUniversity
-](https://www.youtube.com/watch?v=nUwluRGwO-E&t=30s)
+](https://youtu.be/nUwluRGwO-E)
 - 👯 I really love talking about alot of stuff "D [[Arabic] Google Cloud Essentials
 ](https://www.youtube.com/watch?v=ivKuP_Ptfbo&list=LL&index=135) ||  [[Arabic] G Suite Productivity Apps Essentials
 ](https://www.youtube.com/watch?v=gJHhy6eD2LQ&t=4s) 
